@@ -56,7 +56,6 @@ Wireframe Screenshot
 
 ![](https://i.imgur.com/tH3uJdm.png)
 
-<a href="https://www.loom.com/share/8872b45754b44d1ea167638e6a1ead09">
-    <p>▶ Page 1 - PAACT Website Design #2 - 28 December 2022 - Watch Video</p>
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8872b45754b44d1ea167638e6a1ead09-with-play.gif">
-  </a>
+  
+  
+  <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/9a0d365e0ec5457fa28001ccced2c5dc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
